@@ -1,0 +1,39 @@
+{
+  "name": "modeler-twitter",
+  "version": "0.0.0",
+  "description": "twitter backend for modeler functional entity system",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.21.0",
+    "modeler": "~0.2.3",
+    "cli-prompt": "~0.1.0",
+    "bignum": "~0.6.1",
+    "open": "0.0.3"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/modeler-twitter.git"
+  },
+  "homepage": "https://github.com/carlos8f/modeler-twitter",
+  "keywords": [
+    "twitter",
+    "model",
+    "entity",
+    "api",
+    "orm",
+    "bacon"
+  ],
+  "author": "Carlos Rodriguez <carlos@s8f.org> (http://s8f.org/)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "02842e3f8201c8562fa737b4b71755f1cd33b7f5",
+  "bugs": {
+    "url": "https://github.com/carlos8f/modeler-twitter/issues"
+  }
+}
