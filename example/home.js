@@ -15,6 +15,6 @@ modeler.oauthPrompt(function (err, oauth) {
     list.forEach(function (tweet) {
       console.log('@' + tweet.user.screen_name + ': ' + tweet.text);
     });
-    prompt('press ENTER for more...', next);
+    prompt('----- press ENTER for more -----', next);
   }
 });
