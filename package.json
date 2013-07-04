@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "request": "~2.21.0",
-    "modeler": "~0.2.3",
+    "modeler": "~0.4.1",
     "cli-prompt": "~0.1.0",
     "bignum": "~0.6.1",
     "open": "0.0.3"
