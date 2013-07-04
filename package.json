@@ -1,6 +1,6 @@
 {
   "name": "modeler-twitter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "twitter backend for modeler functional entity system",
   "main": "index.js",
   "dependencies": {
